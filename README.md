@@ -2,6 +2,7 @@
 
 ## Contents
 - [Usage](#usage)
+- [Camera Feed](#camera-feed)
 - [Parts List](#parts-list)
 - [Synopsis](#synopsis)
 
@@ -11,7 +12,9 @@
   pip install -r requirements.txt
   sh bot.sh
 ```
-##### Camera Feed
+### Camera Feed
+
+##### To view the feed capture visit this page with the ip address of your device
 
 http://'YOUR DEVICE IP ADDRESS':3030/
 
