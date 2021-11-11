@@ -6,8 +6,6 @@
 - [Parts List](#parts-list)
 - [Synopsis](#synopsis)
 
-## Demo
-[![Watch the video](https://drive.google.com/file/d/1oDsscQN6SEDPiSqk3qjmMjzVKPKNQ2NV/view?usp=sharing)
 
 
 ### Usage
