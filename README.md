@@ -11,6 +11,7 @@
 ### Usage
 
 ```
+  # install requirements and start
   pip install -r requirements.txt
   sh bot.sh
 ```
